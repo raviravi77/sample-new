@@ -13,6 +13,7 @@ public class Array1 {
 		System.out.println(b);
 		System.out.println("surya");
 		System.out.println(2);
+		System.out.println("jai");
 		System.out.println(1);
 		System.out.println("usha");
 
