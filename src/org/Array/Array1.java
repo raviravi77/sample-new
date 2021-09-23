@@ -13,6 +13,8 @@ public class Array1 {
 		System.out.println(b);
 		System.out.println("adsfhg");
 		System.out.println(2);
+		System.out.println(1);
+		System.out.println("usha");
 
 	}
 }
