@@ -11,7 +11,7 @@ public class Array1 {
 		System.out.println("sum values of an array is:");
 	
 		System.out.println(b);
-		System.out.println("adsfhg");
+		System.out.println("surya");
 		System.out.println(2);
 
 	}
